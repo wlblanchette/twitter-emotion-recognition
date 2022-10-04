@@ -7,7 +7,7 @@ from emotion_predictor import EmotionPredictor
 
 # Pandas presentation options
 pd.options.display.max_colwidth = 150   # show whole tweet's content
-pd.options.display.width = 200          # don't break columns
+# pd.options.display.width = 200          # don't break columns
 # pd.options.display.max_columns = 7      # maximal number of columns
 
 
